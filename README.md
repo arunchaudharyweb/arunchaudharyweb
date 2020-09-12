@@ -32,13 +32,13 @@
 ### About 📌
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
-### ✔  **Skills :** Javascript, Vue.js, ReactJs, Angular, Node.js, MongoDB, Mysql, PHP, Python, Java
+### ✔  **Skills :** Javascript, ReactJs, Node.js, MongoDB, Mysql, Python
 ### ✔  **Learning :** Deno, Docker
 ### ✔  **Hobbies :**  Read 📕, Work out 💪, Music 🎧
 
 <hr>
 
-### 💻
+### O.S. 💻
 
 ### ✔  Ubuntu
 ### ✔  Windows
