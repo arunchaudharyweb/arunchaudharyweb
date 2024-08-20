@@ -1,5 +1,5 @@
 <h2>Hello there, I'm Arun Chaudhary 🙋‍♂️</h2>
-<h3>💻👨‍💻A Full Stack Web Developer</h3>
+<h3>💻👨‍💻A Full Stack Developer</h3>
 
 <hr>
 
